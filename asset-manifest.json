@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/aniWebsite/static/css/main.32f6b164.chunk.css",
+    "main.js": "/aniWebsite/static/js/main.1c31b109.chunk.js",
+    "main.js.map": "/aniWebsite/static/js/main.1c31b109.chunk.js.map",
+    "runtime-main.js": "/aniWebsite/static/js/runtime-main.99026ba0.js",
+    "runtime-main.js.map": "/aniWebsite/static/js/runtime-main.99026ba0.js.map",
+    "static/css/2.4be38407.chunk.css": "/aniWebsite/static/css/2.4be38407.chunk.css",
+    "static/js/2.bc3e7e2a.chunk.js": "/aniWebsite/static/js/2.bc3e7e2a.chunk.js",
+    "static/js/2.bc3e7e2a.chunk.js.map": "/aniWebsite/static/js/2.bc3e7e2a.chunk.js.map",
+    "index.html": "/aniWebsite/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/aniWebsite/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.32f6b164.chunk.css.map": "/aniWebsite/static/css/main.32f6b164.chunk.css.map",
+    "static/js/2.bc3e7e2a.chunk.js.LICENSE.txt": "/aniWebsite/static/js/2.bc3e7e2a.chunk.js.LICENSE.txt",
+    "static/media/w1.72a8e380.jpg": "/aniWebsite/static/media/w1.72a8e380.jpg",
+    "static/media/w12.1d481b91.jpg": "/aniWebsite/static/media/w12.1d481b91.jpg",
+    "static/media/w2.1759016e.png": "/aniWebsite/static/media/w2.1759016e.png",
+    "static/media/w3.04c04ef5.png": "/aniWebsite/static/media/w3.04c04ef5.png",
+    "static/media/w4.566b112c.png": "/aniWebsite/static/media/w4.566b112c.png",
+    "static/media/w6.6c8c2f72.png": "/aniWebsite/static/media/w6.6c8c2f72.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99026ba0.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.bc3e7e2a.chunk.js",
+    "static/css/main.32f6b164.chunk.css",
+    "static/js/main.1c31b109.chunk.js"
+  ]
+}
